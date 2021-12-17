@@ -4,6 +4,4 @@ contract TokenFarm {
 
     string public name = "DApp Token Farm";
 
-
-
 }
